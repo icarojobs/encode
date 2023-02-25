@@ -19,7 +19,7 @@ After that, apply the following execution permission:
 chmod u+x encode
 ```
 
-##USAGE
+## USAGE
 The next steps will show you how to use.
 
 # FROM .MKV TO .MP4 USAGE
